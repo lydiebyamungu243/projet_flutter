@@ -47,7 +47,7 @@ class _PersonneState extends State<Personne> {
           new TextField(
             controller: txtadresse,
             decoration: InputDecoration(
-                labelText: "Entrez votre adresse",
+                labelText: "Entrez votre adresse:",
                 hintText: "Entrez votre adresse"),
           ),
           SizedBox(
